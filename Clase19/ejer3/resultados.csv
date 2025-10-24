@@ -1,0 +1,4 @@
+Servidor,TiempoServidor(ms),TiempoCliente(ms),HTTP
+Servidor 1,22,264,200
+Servidor 2,23,616,200
+Servidor 3,28,1306,200
